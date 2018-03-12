@@ -3,5 +3,6 @@ Este sistema terá como objetivo procesar dados eficientemente para recomendar j
 - Preferência do usuário enquanto a géneros mais jogados.
 - Preferências dos amigos enquanto a géneros mais jogados. 
 - Preferências regionais, é dizer, os jogos mais jogados segundo a região do usuário.
+
 O progresso do jogo será  comparado ao progresso dos amigos possuidores do mesmo jogo, este se mostrará em uma porcentagem de realização dos logros e segundo a rareza do jogo, também o sistema gerará um ranking baseado nos amigos. 
 
