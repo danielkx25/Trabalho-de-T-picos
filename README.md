@@ -6,3 +6,4 @@ Este sistema terá como objetivo procesar dados eficientemente para recomendar j
 
 O progresso do jogo será  comparado ao progresso dos amigos possuidores do mesmo jogo, este se mostrará em uma porcentagem de realização dos logros e segundo a rareza do jogo, também o sistema gerará um ranking baseado nos amigos. 
 
+Todo com o uso de um dataset da steam, sem inclusão de dados em tempo real mediante API
